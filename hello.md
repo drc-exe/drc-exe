@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel, aka @drc-exe!<br><br>👀 I’m interested in a lot of random things. My interests vary from time to time.<br><br>🌱 I hold a bachelours in bioengineering from Universidade de Trás-os-Montes e Alto Douro (UTAD). And completed the first year of Biotechnology in Universidade de Aveiro.<br><br>💻 Currently learning python and nix languages, and I hope to broaden it to Rust, C++ and javascript.<br><br>🤖 At the moment I am doing the Udemy's course: "100 Days of Code™: The Complete Python Pro Bootcamp<br>".
+👋 Hi, I’m Daniel, aka @drc-exe!<br><br>👀 I’m interested in a lot of random things. My interests vary from time to time.<br><br>🌱 I hold a bachelours in bioengineering from Universidade de Trás-os-Montes e Alto Douro (UTAD). And completed the first year of Biotechnology in Universidade de Aveiro.<br><br>💻 Currently learning python and nix languages, and I hope to broaden it to Rust, C++ and javascript.<br><br>🤖 At the moment I am doing the Udemy's course: "100 Days of Code™: The Complete Python Pro Bootcamp".<br>
 
 
 ## 🌐 Socials:
