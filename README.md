@@ -24,9 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drc-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=drc-exe&theme=calm&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=drc-exe&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="/Badges/Pull-Shark/png/PullShark.png" alt= "Pull Shark achievement" width="60px" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
